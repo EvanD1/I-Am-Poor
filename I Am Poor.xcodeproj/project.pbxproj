@@ -12,6 +12,7 @@
 		2644568D220A38DE004B3B04 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2644568B220A38DE004B3B04 /* Main.storyboard */; };
 		2644568F220A38DF004B3B04 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2644568E220A38DF004B3B04 /* Assets.xcassets */; };
 		26445692220A38DF004B3B04 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 26445690220A38DF004B3B04 /* LaunchScreen.storyboard */; };
+		2644569A220A3B56004B3B04 /* coal_icon32.png in Resources */ = {isa = PBXBuildFile; fileRef = 26445699220A3B56004B3B04 /* coal_icon32.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		2644568E220A38DF004B3B04 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		26445691220A38DF004B3B04 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		26445693220A38DF004B3B04 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		26445699220A3B56004B3B04 /* coal_icon32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = coal_icon32.png; path = ../../../../Downloads/coal_icon32.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				2644568E220A38DF004B3B04 /* Assets.xcassets */,
 				26445690220A38DF004B3B04 /* LaunchScreen.storyboard */,
 				26445693220A38DF004B3B04 /* Info.plist */,
+				26445699220A3B56004B3B04 /* coal_icon32.png */,
 			);
 			path = "I Am Poor";
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			files = (
 				26445692220A38DF004B3B04 /* LaunchScreen.storyboard in Resources */,
 				2644568F220A38DF004B3B04 /* Assets.xcassets in Resources */,
+				2644569A220A3B56004B3B04 /* coal_icon32.png in Resources */,
 				2644568D220A38DE004B3B04 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
